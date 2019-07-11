@@ -1,11 +1,11 @@
-0.040   2018-09-10 (PERLANCAR)
+0.040   2018-09-10  Released-By: PERLANCAR
 
 	- No functional changes.
 
         - [dist] Fix dependency to DefHash (rel=x_spec).
 
 
-0.03    2015-09-06 (PERLANCAR)
+0.03    2015-09-06  Released-By: PERLANCAR
 
 	- No functional changes.
 
@@ -14,11 +14,11 @@
 	  requirement.
 
 
-0.02     2015-04-24 (PERLANCAR)
+0.02     2015-04-24  Released-By: PERLANCAR
 
          - Reupload.
 
 
-0.01     2015-04-24 (PERLANCAR)
+0.01     2015-04-24  Released-By: PERLANCAR
 
          - First release.
